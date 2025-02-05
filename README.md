@@ -4,7 +4,7 @@
 Bringing privacy to defi portfolio management.
 
 ## Description
-AnonFolio is an advanced private swap management tool designed for traders and investors seeking to execute transactions with enhanced speed and confidentiality. By integrating cutting-edge technologies such as Solana, Jupiter, and the Light Protocol, AnonFolio offers a seamless and secure trading experience.
+AnonFolio is an advanced private swap management tool designed for traders and investors seeking to execute transactions with enhanced speed and confidentiality. By integrating both on-chain and off-chain technologies, AnonFolio offers a seamless and secure trading experience.
 
 ## Key Features:
 - High-Speed Transactions with Solana: Leveraging Solana's high-performance blockchain, AnonFolio ensures rapid transaction processing, enabling traders to capitalize on market opportunities without delay.
